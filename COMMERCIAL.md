@@ -10,7 +10,7 @@ Copyright © 2017 [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt
 
 # MIMBCD-UI Prototype Single Modality - Terms and conditions
 
-1. **Preamble**: This Agreement, signed on Jan 31, 2018 (hereinafter: Effective Date) governs the relationship between Licensee, a Business Entity, (hereinafter: Licensee) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/) (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using [MIMBCD-UI Prototype Single Modality](https://github.com/MIMBCD-UI/prototype-multi-modality) (hereinafter: The Software) created and owned by Licensor, as detailed herein.
+1. **Preamble**: This Agreement, signed on Jan 31, 2018 (hereinafter: Effective Date) governs the relationship between Licensee, a Business Entity, (hereinafter: Licensee) and [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/) (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using [`prototype-multi-modality-assistant`](https://github.com/MIMBCD-UI/prototype-multi-modality-assistant) (hereinafter: The Software) created and owned by Licensor, as detailed herein.
 
 2. **License Grant**: Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Pepetual, Non-commercial, Without the rights to create derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
 
